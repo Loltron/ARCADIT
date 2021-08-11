@@ -3,14 +3,14 @@
 # Custom UI design.
 
 Extract main file first as it contians the application. Open extracted folder on android studio.
-![Arcadit_Logo](https://user-images.githubusercontent.com/67862188/129034334-2eae80fa-dc60-4754-8374-4ebbd17f43fc.png)
-![1](https://user-images.githubusercontent.com/67862188/129034543-25516585-02a2-4118-a745-fdc9f1bd0e58.jpg)
-![home view](https://user-images.githubusercontent.com/67862188/129034548-39759db1-dbb4-4375-a844-8af6ddd29dac.jpg)
-![login](https://user-images.githubusercontent.com/67862188/129034551-e486e88c-be26-476c-89a1-9aeb634553df.jpg)
-![post](https://user-images.githubusercontent.com/67862188/129034553-6a8fbe5c-bac5-466c-aae9-90a6138b3234.jpg)
-![profile options](https://user-images.githubusercontent.com/67862188/129034557-126d275e-0b58-4983-974d-46898c50ae57.jpg)
-![profile view](https://user-images.githubusercontent.com/67862188/129034558-3801f962-b041-46bb-a29d-ad3838370014.jpg)
-![register](https://user-images.githubusercontent.com/67862188/129034561-ec7ed63c-cf3f-41bb-84ac-909abfdcaced.jpg)
-![users](https://user-images.githubusercontent.com/67862188/129034562-5cd18ede-7ee4-41e1-95a1-3e0d0ac94e06.jpg)
+![1-Open](https://user-images.githubusercontent.com/67862188/129035007-24320d1c-7132-417a-ac01-89d710b84685.jpg)
+![2-login](https://user-images.githubusercontent.com/67862188/129035012-7707a7ff-fccb-406a-b10e-bde5eaa9aad6.jpg)
+![3-register](https://user-images.githubusercontent.com/67862188/129035014-ab6aab6e-66f2-4c1d-a8e4-f7c619bdceb5.jpg)
+![4-home view](https://user-images.githubusercontent.com/67862188/129035016-e18cdfea-a963-42b1-82be-20c7b24ddcfc.jpg)
+![5-post](https://user-images.githubusercontent.com/67862188/129035022-1f8b5603-1bb7-4aa0-8632-0b4ca25467e5.jpg)
+![6-profile view](https://user-images.githubusercontent.com/67862188/129035025-fd80f1e0-9be3-4bf8-81df-47a52e6c0008.jpg)
+![7-profile options](https://user-images.githubusercontent.com/67862188/129035028-b2d6245c-7d2a-474f-a490-d54a38e47c3c.jpg)
+![8-users](https://user-images.githubusercontent.com/67862188/129035031-f7d4e299-3c0f-4ce4-9f7c-1c0f68d6c27e.jpg)
+
 
 
