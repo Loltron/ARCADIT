@@ -2,7 +2,8 @@
 # Inspired by reddit, quora and other apps.
 # Custom UI design.
 
-Extract main file first as it contians the application. Open extracted folder on android studio.
+# Extract main file first as it contians the application. Open extracted folder on android studio.
+
 ![1-Open](https://user-images.githubusercontent.com/67862188/129035007-24320d1c-7132-417a-ac01-89d710b84685.jpg)
 ![2-login](https://user-images.githubusercontent.com/67862188/129035012-7707a7ff-fccb-406a-b10e-bde5eaa9aad6.jpg)
 ![3-register](https://user-images.githubusercontent.com/67862188/129035014-ab6aab6e-66f2-4c1d-a8e4-f7c619bdceb5.jpg)
