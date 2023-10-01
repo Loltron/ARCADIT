@@ -11,7 +11,3 @@
 ![6-profile view](https://user-images.githubusercontent.com/67862188/129035025-fd80f1e0-9be3-4bf8-81df-47a52e6c0008.jpg)
 ![7-profile options](https://user-images.githubusercontent.com/67862188/129035028-b2d6245c-7d2a-474f-a490-d54a38e47c3c.jpg)
 ![8-users](https://user-images.githubusercontent.com/67862188/129035031-f7d4e299-3c0f-4ce4-9f7c-1c0f68d6c27e.jpg)
-
-
-Extract main file first as it contians the application. Open extracted folder on android studio.
-
