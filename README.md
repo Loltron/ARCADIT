@@ -1,4 +1,4 @@
-# Android social media app mainly coded in JAVA on android studio. 
+# Android social media app, coded in JAVA. 
 # Inspired by reddit, quora and other apps.
 # Custom UI design.
 
